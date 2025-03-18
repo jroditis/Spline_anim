@@ -1,1 +1,6 @@
 # Spline_anim
+Wow! Something moved!
+This was both harder and easier than I thought it would be. I had a little bit of 3D modeling (Sculptura, Blender, Maya) and even less 3D animation (Maya) experience from undergrad, but it was better than nothing. I like 3D art applications in the physical world like sculpture and pottery, so some of the logic transfers over, but that's about where my knowledge ends. CG 3D applications tend to be... Confusing to me, just through the nature of computer program language and industry jargon not being immediately translatable. 
+Just to get a feel for how the program actually worked as I would get the most utility from, I wanted to make a simple loading animation to understand keyframing, space, and camera placement, in which one cube splits off into four, rotate in a few different directions, and then merge back together. I wanted the objects to have a 'dance-like' quality to them, so I played a lot with Spline's ease-in and ease-out animation qualities in particular. 
+For a first attempt at Spline, I feel... Pretty okay about it? I didn't get a chance to watch any tutorials to help fortify my knowledge (kind of hard to watch YouTube at a day job), but I'm hoping to greatly expand my knowledge in the coming weeks to add to my portfolio. 
+三三ᕕ( ᐛ )ᕗ
